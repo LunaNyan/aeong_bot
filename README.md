@@ -1,5 +1,4 @@
 # AeongBot
-[![Build Status](https://travis-ci.org/perillamint/aeong_bot.svg?branch=master)](https://travis-ci.org/perillamint/aeong_bot)
 
 **TODO: Add description**
 
